@@ -1,0 +1,30 @@
+.reqs {
+    width: max-content;
+    padding: 20px;
+    margin: auto;
+    background-color: lightcyan;
+}
+
+form {
+    width: max-content;
+    padding: 20px;
+    margin: auto;
+    background-color: lightslategrey;
+    font-family: monospace;
+}
+
+input {
+    margin: 2px;
+}
+
+body {
+    background-size: contain;
+    background-image: url(../media/mit\ quad.jpg);
+    ;
+}
+
+.jump-to {
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
