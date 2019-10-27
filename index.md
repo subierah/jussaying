@@ -8,7 +8,7 @@
         <meta name="description" content="All About MS Wandia">
         <meta name="keywords" content="Wandia's Resume, Wandia's Passions, Wandia's Portfolio">
                 <!-- define keywords for search engines -->
-        <!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <!-- to ensure website looks good on all devices -->
         <meta http-equiv="refresh" content="30"> 
                 <!-- refreshes page every 30secs-->
