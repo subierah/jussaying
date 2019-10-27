@@ -1,12 +1,10 @@
 .reqs {
-    width: max-content;
     padding: 20px;
     margin: auto;
     background-color: lightcyan;
 }
 
 form {
-    width: max-content;
     padding: 20px;
     margin: auto;
     background-color: lightslategrey;
